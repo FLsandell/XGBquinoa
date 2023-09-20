@@ -41,9 +41,7 @@ The Jupyter notebook displays all the required python modules.
 <!-- Information about our group -->
 ## Roadmap
 
-If you are interested in our work you can find more informations [here](https://bvseq.boku.ac.at/).
-
-We are also on [twitter](https://twitter.com/ICBboku)
+If you are interested in our work you can find more informations [here](https://bvseq.boku.ac.at/) and on our [twitter](https://twitter.com/ICBboku).
 
 
 <!-- Cite -->
@@ -58,7 +56,7 @@ When utilizing this provided code in any manner, please ensure to cite the follo
 <!-- LICENSE -->
 ## License
 
-Distributed under the MIT License. See `LICENSE.txt` for more information.
+Distributed under the MIT License. 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
