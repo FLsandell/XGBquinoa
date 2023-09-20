@@ -34,6 +34,7 @@ The code associated with this publication is available as a Jupyter notebook. Wh
 ### Prerequisites
 
 python3
+
 jupyter 
 
 The Jupyter notebook displays all the required python modules.
