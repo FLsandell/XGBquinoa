@@ -2,8 +2,8 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/github_username/repo_name">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+  <a href="https://github.com/FLSandell/XGQuinoa">
+    <img src="images/BOKU-Logo-150-Institut-ICB-kl.png" alt="Logo" width="138" height="45">
   </a>
 
 <h3 align="center">XGQuinoa</h3>
@@ -66,7 +66,7 @@ Distributed under the MIT License.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@flwasch](https://twitter.com/flwasch) - felix.sandell@boku.ac.at
+Felix Leopold Sandell - [@flwasch](https://twitter.com/flwasch) - felix.sandell@boku.ac.at
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
