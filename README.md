@@ -57,6 +57,7 @@ When utilizing this provided code in any manner, please ensure to cite the follo
 <!-- LICENSE -->
 ## License
 
+Copyright (c) <2023> <Felix Sandell>
 Distributed under the MIT License. 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
