@@ -40,7 +40,7 @@ jupyter
 The Jupyter notebook displays all the required python modules.
 
 <!-- Information about our group -->
-## Roadmap
+## About the ICB
 
 If you are interested in our work you can find more informations [here](https://bvseq.boku.ac.at/) and on our [twitter](https://twitter.com/ICBboku).
 
