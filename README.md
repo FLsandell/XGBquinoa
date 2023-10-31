@@ -6,7 +6,7 @@
     <img src="images/BOKU-Logo-150-Institut-ICB-kl.png" alt="Logo" width="138" height="45">
   </a>
 
-<h3 align="center">XGQuinoa</h3>
+<h3 align="center">XGBquinoa</h3>
 
   <p align="center">
     Unrevealing the genomic basis of seed colour using Extreme Gradient Boosting
