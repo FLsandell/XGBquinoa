@@ -18,9 +18,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-Quinoa is an agriculturally important crop species originally domesticated in the Andes of central South America. One of its most important phenotypic traits is seed colour. Seed colour variation is determined by contrasting abundance of betalains, a class of strong antioxidant and free radicals scavenging colour pigments only found in plants of the order Caryophyllales. However, the genetic basis for these pigments in seeds remains to be identified. Here we demonstrate the application of machine learning (extreme gradient boosting) to identify genetic variants predictive of seed colour. We provide re-sequencing and phenotypic data for 156 South American quinoa accessions and identify candidate genes potentially controlling betalain content in quinoa seeds. Genes identified include novel cytochrome P450 genes and known members of the betalain synthesis pathway, as well as genes annotated as being involved in seed development. Our work showcases the power of modern machine learning methods to extract biologically meaningful information from large sequencing data sets.
-
-(insert link to final publication)
+Quinoa is an agriculturally important crop species originally domesticated in the Andes of central South America. One of its most important phenotypic traits is seed colour. Seed colour variation is determined by contrasting abundance of betalains, a class of strong antioxidant and free radicals scavenging colour pigments only found in plants of the order Caryophyllales. However, the genetic basis for these pigments in seeds remains to be identified. Here we demonstrate the application of machine learning (extreme gradient boosting) to identify genetic variants predictive of seed colour. We show that machine learning outperforms the classical genome-wide association (GWAS) approach. We provide re-sequencing and phenotypic data for 156 South American quinoa accessions and identify candidate genes potentially controlling betalain content in quinoa seeds. Genes identified include novel cytochrome P450 genes and known members of the betalain synthesis pathway, as well as genes annotated as being involved in seed development. Our work showcases the power of modern machine learning methods to extract biologically meaningful information from large sequencing data sets.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -42,16 +40,7 @@ The Jupyter notebook displays all the required python modules.
 <!-- Information about our group -->
 ## About the ICB
 
-If you are interested in our work you can find more informations [here](https://bvseq.boku.ac.at/) and on our [twitter](https://twitter.com/ICBboku).
-
-
-<!-- Cite -->
-## How to cite us
-
-When utilizing this provided code in any manner, please ensure to cite the following research paper:
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
+If you are interested in our work you can find more information [here](https://bvseq.boku.ac.at/) and on our [twitter](https://twitter.com/ICBboku).
 
 
 <!-- LICENSE -->
