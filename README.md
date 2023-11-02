@@ -42,6 +42,8 @@ jupyter
 
 The following python modules:
 
+xgboost
+
 pandas
 
 numpy
