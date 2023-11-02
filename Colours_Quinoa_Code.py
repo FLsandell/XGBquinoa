@@ -16,7 +16,6 @@ import sys
 import sklearn
 import xgboost as xgb
 from xgboost import XGBClassifier
-import numpy as np
 from hyperopt import STATUS_OK
 from hyperopt import fmin, tpe, hp, STATUS_OK, Trials
 from sklearn import preprocessing
