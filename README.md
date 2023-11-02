@@ -38,7 +38,7 @@ The input data used in this project can be found here:
 
 python3
 
-jupyter 
+jupyter (optional, to view Colours_Quinoa_Code.ipynb)
 
 The following python modules:
 
