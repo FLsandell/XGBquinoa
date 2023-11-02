@@ -29,6 +29,11 @@ Quinoa is an agriculturally important crop species originally domesticated in th
 
 The code associated with this publication is available as a Jupyter notebook. While the code was originally designed to forecast seed color based on quinoa sequencing data, it can readily be modified to construct a predictive model for any trait that can be inferred from sequencing data. The input file should be a 0|1|2 matrix, where 0 denotes a homozygous reference variant, 1 signifies a heterozygous variant, and 2 indicates a homozygous alternative variant. We have provided this matrix for the sequencing dataset comprising 156 accessions, as mentioned in this publication. To generate a similar matrix for new data, a VCF file can be employed, and the conversion can be facilitated using vcftools with the "--012" flag.
 
+The input data used in this project can be found here:
+
+[10.6084/m9.figshare.24466522
+](https://doi.org/10.6084/m9.figshare.24466522.v1 )
+
 ### Prerequisites
 
 python3
