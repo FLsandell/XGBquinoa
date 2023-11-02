@@ -40,7 +40,12 @@ python3
 
 jupyter 
 
-The Jupyter notebook displays all the required python modules.
+The following python modules:
+pandas
+numpy
+hyperopt
+sklearn
+matplotlib
 
 <!-- Information about our group -->
 ## About the ICB
