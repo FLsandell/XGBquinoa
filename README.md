@@ -41,6 +41,7 @@ python3
 jupyter 
 
 The following python modules:
+
 pandas
 numpy
 hyperopt
