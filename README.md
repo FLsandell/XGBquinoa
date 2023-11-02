@@ -43,9 +43,13 @@ jupyter
 The following python modules:
 
 pandas
+
 numpy
+
 hyperopt
+
 sklearn
+
 matplotlib
 
 <!-- Information about our group -->
